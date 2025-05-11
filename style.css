@@ -46,38 +46,38 @@ p {
 /* Responsividade */
 @media (max-width: 768px) {
   .card {
-    padding: 30px;
-    max-width: 350px;
+    padding: 40px;
+    max-width: 95%;
   }
 
   h1 {
-    font-size: 1.8em;
+    font-size: 2em;
   }
 
   p {
-    font-size: 1em;
+    font-size: 1.2em;
   }
 
   .hearts {
-    font-size: 1.8em;
+    font-size: 2em;
   }
 }
 
 @media (max-width: 480px) {
   .card {
-    padding: 20px;
-    max-width: 90%;
+    padding: 30px;
+    max-width: 100%;
   }
 
   h1 {
-    font-size: 1.6em;
+    font-size: 2.2em;
   }
 
   p {
-    font-size: 0.9em;
+    font-size: 1.3em;
   }
 
   .hearts {
-    font-size: 1.6em;
+    font-size: 2.2em;
   }
 }
